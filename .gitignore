@@ -2,3 +2,4 @@ Bencher-Scenarios-MathBigFloat-*
 .build
 *~
 nytprof*
+.DS_Store
